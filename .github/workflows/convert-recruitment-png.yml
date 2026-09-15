@@ -1,0 +1,23 @@
+name: Convert recruitment SVG to PNG
+on:
+  push:
+    paths:
+      - 'posts/*.svg'
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install sharp --no-save
+      - run: node -e "require('sharp')('posts/2026-09-15-2100-recruitment.svg').png().toFile('posts/2026-09-15-2100-recruitment-generated.png').then(()=>console.log('done'))"
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add posts/2026-09-15-2100-recruitment-generated.png package-lock.json package.json
+          git commit -m 'Generate PNG recruitment asset' || exit 0
+          git push
