@@ -1,0 +1,12 @@
+{
+  "brand_name": "Smart Iron Xpress",
+  "service": "Professional Steam Ironing Service",
+  "location": "Urapakkam, Chennai",
+  "phone": "7358764182",
+  "whatsapp": "7358764182",
+  "website": "smartironxpress.com",
+  "service_areas": ["Urapakkam", "Guduvanchery", "Vandalur", "Tambaram", "Chengalpattu", "nearby areas"],
+  "pickup_delivery": "Free Pickup & Delivery",
+  "app_booking": true,
+  "languages": ["English", "Tamil"]
+}
