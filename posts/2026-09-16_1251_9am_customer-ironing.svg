@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbff"/><stop offset="1" stop-color="#eaf3ff"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#064ea8"/><stop offset="1" stop-color="#0b78d0"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity="0.16"/></filter>
+</defs>
+<rect width="1200" height="1200" fill="url(#bg)"/>
+<rect x="36" y="36" width="1128" height="1128" rx="42" fill="#fff" filter="url(#shadow)"/>
+<image x="70" y="62" width="260" height="260" preserveAspectRatio="xMidYMid meet" href="https://raw.githubusercontent.com/annivsahrap-wq/SmartIronXpress-Post-Assets/main/brand/master-logo.webp" xlink:href="https://raw.githubusercontent.com/annivsahrap-wq/SmartIronXpress-Post-Assets/main/brand/master-logo.webp"/>
+<text x="365" y="112" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#064ea8">YOUR LOCAL IRONING EXPERT</text>
+<text x="365" y="166" font-family="Arial,sans-serif" font-size="27" font-weight="600" fill="#333">Urapakkam • Chennai &amp; Nearby Areas</text>
+<rect x="365" y="202" width="690" height="116" rx="28" fill="url(#brand)"/>
+<text x="400" y="252" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">PROFESSIONAL STEAM IRONING</text>
+<text x="400" y="294" font-family="Arial,sans-serif" font-size="28" font-weight="600" fill="#fff">Crisp. Clean. Convenient.</text>
+<g transform="translate(95 355)">
+  <rect width="1010" height="390" rx="34" fill="#f5f9ff" stroke="#d7e5f7" stroke-width="3"/>
+  <g transform="translate(60 70)">
+    <path d="M0 210 C150 150 280 95 500 80 C665 68 790 100 900 170 L900 235 L0 235 Z" fill="#fff" stroke="#c9d9ea" stroke-width="4"/>
+    <rect x="60" y="235" width="780" height="34" rx="17" fill="#064ea8"/>
+    <rect x="140" y="274" width="620" height="20" rx="10" fill="#ff6b00"/>
+    <path d="M245 65 L430 0 L660 35 L520 130 L300 135 Z" fill="#e9f4ff" stroke="#064ea8" stroke-width="7"/>
+    <path d="M520 130 L760 135 L860 185 L560 185 Z" fill="#d6e7f8" stroke="#064ea8" stroke-width="7"/>
+    <circle cx="430" cy="72" r="22" fill="#ff6b00"/>
+    <path d="M680 70 C725 35 765 25 800 38" fill="none" stroke="#ff6b00" stroke-width="13" stroke-linecap="round"/>
+    <path d="M720 10 C755 -30 800 -32 835 0" fill="none" stroke="#7db7ec" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(85 315)">
+    <text x="0" y="0" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#064ea8">Freshly pressed • Ready to wear</text>
+    <text x="0" y="43" font-family="Arial,sans-serif" font-size="24" fill="#555">Everyday wear • Office formals • School uniforms • Sarees</text>
+  </g>
+</g>
+<rect x="95" y="785" width="1010" height="118" rx="28" fill="#fff4ea" stroke="#ff6b00" stroke-width="3"/>
+<text x="600" y="830" text-anchor="middle" font-family="Noto Sans Tamil,Arial,sans-serif" font-size="38" font-weight="800" fill="#064ea8">உங்கள் துணிகளுக்கு நேர்த்தியான இஸ்திரி சேவை</text>
+<text x="600" y="874" text-anchor="middle" font-family="Noto Sans Tamil,Arial,sans-serif" font-size="27" font-weight="600" fill="#333">சுத்தம் • நேர்த்தி • உங்கள் நேரம் மிச்சம்!</text>
+<rect x="95" y="930" width="1010" height="82" rx="24" fill="#eaf5ff"/>
+<text x="600" y="981" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#064ea8">FREE PICKUP &amp; DELIVERY • EASY APP BOOKING</text>
+<rect x="95" y="1034" width="1010" height="92" rx="24" fill="#064ea8"/>
+<text x="135" y="1089" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#fff">WhatsApp / Call: 7358764182</text>
+<text x="1080" y="1082" text-anchor="end" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">smartironxpress.com</text>
+<text x="1080" y="1110" text-anchor="end" font-family="Arial,sans-serif" font-size="19" fill="#fff">Urapakkam • Guduvanchery • Vandalur • Tambaram • Chengalpattu</text>
+</svg>
