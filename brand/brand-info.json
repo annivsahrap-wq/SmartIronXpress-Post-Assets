@@ -8,5 +8,16 @@
   "service_areas": ["Urapakkam", "Guduvanchery", "Vandalur", "Tambaram", "Chengalpattu", "nearby areas"],
   "pickup_delivery": "Free Pickup & Delivery",
   "app_booking": true,
+  "order_acceptance": "Orders are accepted 24 hours a day",
+  "pickup_delivery_schedule": {
+    "morning": {
+      "pickup": "Before 9:30 AM",
+      "delivery": "Same day by 7:30 PM"
+    },
+    "evening": {
+      "pickup": "Before 7:30 PM",
+      "delivery": "Next day morning before 9:30 AM"
+    }
+  },
   "languages": ["English", "Tamil"]
 }
